@@ -22,14 +22,18 @@ Here are some ideas to get you started:
 
 <br />
 
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=paldron&count_private=true&show_icons=true&theme=nord">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=paldron&count_private=true&show_icons=true&theme=nord" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=paldron&theme=nord">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=paldron&theme=nord" />
-</a>
-</div>
+<!--
+  <div>
+  <a href="https://github.com/paldron">
+  <img align="center" alt="Augusto's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=paldron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" /></a>
 
-[linkedin]: https://linkedin.com/in/augusto-shoo-287172a7
-[mail]: mailto:augusto.shoo@gmail.com
+  <a href="https://github.com/paldron">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paldron&layout=compact&theme=nord" />
+  </a>
+  </div>
+-->
+<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/augusto-shoo-287172a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="test" height="30" width="40" /></a>
+</p>
