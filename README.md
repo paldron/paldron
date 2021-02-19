@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<!--
-  <div>
+<div>
   <a href="https://github.com/paldron">
   <img align="center" alt="Augusto's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=paldron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" /></a>
 
@@ -31,7 +30,6 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=paldron&layout=compact&theme=nord" />
   </a>
   </div>
--->
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
