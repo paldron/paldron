@@ -26,10 +26,11 @@ Here are some ideas to get you started:
   <!--
   <a href="https://github.com/paldron">
   <img align="center" alt="Augusto's Github Stats" src="https://github-readme-stats.paldron.vercel.app/api?username=paldron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" /></a>
-  -->
+  
   <a href="https://github.com/paldron">
     <img align="center" src="https://github-readme-stats.paldron.vercel.app/api/top-langs/?username=paldron&layout=compact" />
   </a>
+  -->
   </div>
 <br />
 <h3 align="left">Connect with me:</h3>
