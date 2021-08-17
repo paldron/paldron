@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=paldron.paldron)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=paldron.paldron) -->
 
 #### I'm a Computer Engineer and an Avid software developer.
 
