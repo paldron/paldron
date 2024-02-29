@@ -62,4 +62,5 @@ The work is interesting even when it drives you insane 😄
 <p align="left">
    <a href="https://linkedin.com/in/augusto-shoo-287172a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="test" height="30" width="40" /></a>
    <a href="https://instagram.com/augusto.piz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="test" height="30" width="40" /></a>
+   <a href="https://twitter.com/AugustoSho24982?t=RUEDnSBn65NnZ1Mo-zzhtQ&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="test" height="30" width="40" /></a>
 </p>
