@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=paldron.paldron) -->
 
-#### I'm a an Avid software engineer.
+#### I'm a Software Engineer.
 
 > When there is a plan, I will strive for excellence; when there is none, I'm an explorer.
 
